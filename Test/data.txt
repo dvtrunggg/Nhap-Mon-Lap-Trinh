@@ -1,0 +1,4 @@
+3
+Nguyen Van A, Ke Toan, 10
+Nguyen Van B, Kiem Toan, 100
+Nguyen Thi C, Thu Ngan, 5

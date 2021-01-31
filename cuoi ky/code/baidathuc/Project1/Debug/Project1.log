@@ -1,0 +1,7 @@
+﻿  daThuc.cpp
+D:\code\ky1 nam3\nmlt\cuoi ky\final\baidathuc\Project1\daThuc.cpp(31,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  mangDaThuc.cpp
+  Generating Code...
+D:\code\ky1 nam3\nmlt\cuoi ky\final\baidathuc\Project1\mangDaThuc.cpp(39): warning C4715: 'Maxx': not all control paths return a value
+  Project1.vcxproj -> D:\code\ky1 nam3\nmlt\cuoi ky\final\baidathuc\Debug\Project1.exe
